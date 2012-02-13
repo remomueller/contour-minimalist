@@ -1,5 +1,8 @@
 == 0.1.2
 
+* Bug Fix
+  * Message alerts and notices now line up correctly on the left
+
 == 0.1.1
 
 * Bug Fix
