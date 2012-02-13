@@ -1,0 +1,16 @@
+#content {
+  background-color: transparent;
+}
+
+div.frame {
+  background: rgba(0, 0, 0, .03);
+  padding: 1.5%;
+}
+
+div.frame table {
+  background-color: white;
+}
+
+fieldset {
+  background: rgba(0, 0, 0, .03);
+}

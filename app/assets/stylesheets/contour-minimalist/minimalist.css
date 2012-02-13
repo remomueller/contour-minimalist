@@ -1,0 +1,22 @@
+body {
+  background-image: url(background.jpg);
+  background-color: #F0F4FF;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+#header a:link, #header a:visited, #header a:active, #header a:focus {
+  color: #404040;
+  text-decoration: none;
+}
+
+#header a:hover, a:link, a:visited, #menu a:hover {
+  color: #3F98DB;
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  color: #3F98DB;
+  text-decoration: underline;
+}
