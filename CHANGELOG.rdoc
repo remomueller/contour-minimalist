@@ -1,5 +1,8 @@
 == 0.1.1
 
+* Bug Fix
+  * Background image asset is now linked correctly in development and production
+
 == 0.1.0
 
 * Enhancements

@@ -1,5 +1,5 @@
 body {
-  background-image: url(background.jpg);
+  background-image: url(../assets/contour-minimalist/background.jpg);
   background-color: #F0F4FF;
   background-repeat: no-repeat;
   background-position: top center;
@@ -11,12 +11,14 @@ body {
   text-decoration: none;
 }
 
-#header a:hover, a:link, a:visited, #menu a:hover {
+#header a:hover, a:link, a:visited, #menu a:hover, a:hover, a:active, a:focus {
   color: #3F98DB;
+}
+
+#header a:hover, a:link, a:visited, #menu a:hover {
   text-decoration: none;
 }
 
 a:hover, a:active, a:focus {
-  color: #3F98DB;
   text-decoration: underline;
 }
