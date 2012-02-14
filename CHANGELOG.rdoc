@@ -1,5 +1,8 @@
 == 0.1.3
 
+* Enhancements
+  * Theme now includes special backgrounds that appear on specific days, like Valentine's Day
+
 == 0.1.2
 
 * Bug Fix
